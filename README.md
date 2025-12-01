@@ -201,7 +201,7 @@ Return impact captured:
 
 **6. Screenshots / Demo**
 Attached preview image included in project assets folder ✅
-
+https://github.com/Disha-Gupta-892/Data-Analysis/blob/main/Screenshot%202025-12-01%20224059.png
 ---
 
 **7. Business Value Delivered**
