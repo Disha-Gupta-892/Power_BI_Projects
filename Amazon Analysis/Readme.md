@@ -201,7 +201,7 @@ Return impact captured:
 
 **6. Screenshots / Demo**
 Attached preview image included in project assets folder ✅
-
+https://github.com/Disha-Gupta-892/Power_BI_Projects/blob/main/Amazon%20Analysis/amazon%20analysis.png
 
 **7. Business Value Delivered**
 
